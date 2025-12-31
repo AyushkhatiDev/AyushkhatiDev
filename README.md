@@ -1,6 +1,17 @@
 # 💫 About Me:
-I am currently working on UDECK IT SERVICES PRIVATE LIMITED <br>I have built multiple project in MERN STACK <br>I have built a complete Student Management Software in python for the Company
+Backend-focused Full-Stack Developer with strong expertise in the MERN stack (MongoDB, Express.js, React.js, Node.js).
 
+Designed and developed RESTful APIs, authentication & authorization systems, and scalable backend architectures.
+
+Built multiple production-level applications including chat systems, task management platforms, SaaS products, and a Student Management Software using Python.
+
+Hands-on experience with MongoDB for schema design, indexing, and performance optimization.
+
+Proficient in JavaScript, Python, C/C++, with working knowledge of Docker and backend deployment workflows.
+
+Strong foundation in Data Structures & Algorithms, Operating Systems, and backend system design.
+
+Experience in API testing, service-based project structuring, and frontend–backend integration.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Ayush khati) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dropclause) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayush-khati-8a342821b/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dropclause) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushiskhati305@gmail.com) 
