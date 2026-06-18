@@ -1,64 +1,118 @@
-<h1 align="center">Hi, I'm Ayush Khati 👋</h1>
-<h3 align="center">Backend-Focused Software Engineer | Building reliable systems & AI-powered tools</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ayush-khati-8a342821b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:ayushiskhati305@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://medium.com/@ayushiskhati305"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://portfoliokhati.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Ayush%20Khati&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend-Focused%20Software%20Engineer%20%7C%20Building%20with%20AI&descAlignY=58&descSize=18" width="100%"/>
+
+<a href="https://www.linkedin.com/in/ayush-khati-8a342821b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/AyushkhatiDev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:ayushiskhati305@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://medium.com/@ayushiskhati305"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://portfoliokhati.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com/?lines=Designing+systems+that+stay+up+at+3am;Evaluating+whether+LLMs+can+be+trusted;Shipping+open-source+tools+for+real+problems;Currently+optimizing+backend+at+Udeck+Services&font=Fira+Code&center=true&width=600&height=45&color=58A6FF&vCenter=true&size=20" />
+
+</div>
+
+<br/>
+
+## 🧭 About Me
+
+I'm a Software Engineer at **Udeck Services**, where I design backend systems and cloud infrastructure currently sustaining **99.8% uptime** for 2,500+ businesses managing 10,000+ SKUs.
+
+My focus sits at the intersection of **backend engineering and applied AI** — building systems that don't just demo well, but hold up under real load, real data, and real failure modes. That curiosity led me to build tools that evaluate whether LLMs can be trusted, scanners that catch what AI-generated code gets wrong, and pipelines that fail gracefully instead of silently.
+
+```text
+const ayush = {
+  role: "Software Engineer, Udeck Services",
+  focus: ["backend architecture", "LLM evaluation", "AI tooling"],
+  currentlyBuilding: "production-grade reliability into AI-backed systems",
+  alwaysLearning: true,
+};
+```
+
+<br/>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ [VibeSec](https://github.com/AyushkhatiDev/vibesec)
+**Open-source security scanner for AI-generated code**
+
+Detects 24 vulnerability patterns — hardcoded secrets, disabled RLS, hallucinated packages, XSS — using a deterministic AST-based rule engine paired with LLM-powered fix suggestions.
+
+`179 tests` · `100% rule coverage` · [`pip install vibesec`](https://pypi.org/project/vibesec/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧪 [LLM Eval & Red-Teaming](https://github.com/AyushkhatiDev/llm-eval)
+**Three-tier judge architecture for LLM reliability**
+
+Benchmarks factual accuracy, safety, and adversarial robustness via a distributed judge chain — models evaluating models.
+
+`27-test suite` · `86% hallucination detection` · [Live demo](https://llm-eval-silk.vercel.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔗 [Data Extractor](https://github.com/AyushkhatiDev/data-extractor)
+**AI business intelligence pipeline at scale**
+
+Scrapes 8 public data streams through an async LLM fallback chain (Qwen-2.5-VL → Llama-3.1 → Regex) for fault-tolerant extraction. Architecture documented in an independent research paper.
+
+[Live demo](https://data-extractor-1-laq7.onrender.com/)
+
+</td>
+<td width="50%" valign="top">
+
+### 📝 Open Source & Writing
+**Fedora · GirlScript Summer of Code · Medium**
+
+Contributing production code and docs to Fedora's DRI repos, plus technical essays on ML systems and full-stack engineering reaching 1,000+ engineering readers.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,c,nodejs,flask,nextjs,react,redis,postgres,docker,nginx,aws,pytorch,git,githubactions&theme=dark" />
 </p>
 
----
+<br/>
 
-### 🧭 About Me
+## 📊 GitHub Stats
 
-I'm a Software Engineer at **Udeck Services**, where I design backend systems and cloud infrastructure that currently sustain **99.8% uptime** for 2,500+ businesses managing 10,000+ SKUs. My focus is on building things that stay correct and fast under real load — not just demos.
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AyushkhatiDev&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&rank_icon=github" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushkhatiDev&theme=tokyonight&hide_border=true&layout=compact" width="38%" />
+</div>
 
-Outside my day job, I build open-source tools at the intersection of **backend engineering and applied AI**: evaluating LLM reliability, securing AI-generated code, and designing fault-tolerant pipelines that fall back gracefully when models fail. I write about what I learn along the way.
+<div align="center">
+<img src="https://nirzak-streak-stats.vercel.app/?user=AyushkhatiDev&theme=tokyonight&hide_border=true" width="60%" />
+</div>
 
-- 🔧 Currently optimizing distributed systems and LLM-backed pipelines for production reliability
-- 🧪 Building open-source tools around AI evaluation, security, and developer tooling
-- ✍️ Writing technical essays on ML systems and full-stack engineering (1,000+ readers)
-- 🌍 Contributing to **Fedora** and **GirlScript Summer of Code**
+<br/>
 
----
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushkhatiDev&theme=tokyo-night&hide_border=true&area=true" width="90%" />
+</div>
 
-### 🚀 Featured Projects
+<br/>
 
-**[VibeSec](https://github.com/AyushkhatiDev/vibesec)** — Open-source CLI security scanner for AI-generated code
-Detects 24 vulnerability patterns (hardcoded secrets, disabled RLS, hallucinated packages, XSS) using a deterministic AST-based rule engine, paired with LLM-powered fix suggestions. 179 automated tests, 100% rule coverage. [`pip install vibesec`](https://pypi.org/project/vibesec/)
+<div align="center">
 
-**[LLM Evaluation & Red-Teaming Framework](https://github.com/AyushkhatiDev/llm-eval)** — [Live demo](https://llm-eval-silk.vercel.app/)
-A distributed three-tier LLM judge architecture benchmarking factual accuracy, safety, and adversarial robustness. 27-test automated suite, 86% hallucination detection accuracy across 15+ adversarial configurations.
+### 💬 Open to backend, full-stack, and AI engineering roles — let's build something reliable.
 
-**[Data Extractor](https://github.com/AyushkhatiDev/data-extractor)** — [Live demo](https://data-extractor-1-laq7.onrender.com/)
-An AI business intelligence pipeline scraping 8 public data streams, with an asynchronous LLM fallback chain (Qwen-2.5-VL → Llama-3.1 → Regex) for fault-tolerant extraction at scale. Architecture documented in an independent research paper.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
 
----
-
-### 🛠️ Tech Stack
-
-**Languages:** ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Backend & Systems:** ![Node.js](https://img.shields.io/badge/-Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![Redis](https://img.shields.io/badge/-Redis-DD0031?style=flat-square&logo=redis&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-
-**AI / ML:** ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Sentence Transformers](https://img.shields.io/badge/-Sentence--Transformers-FFD21E?style=flat-square) ![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat-square&logo=celery&logoColor=white)
-
-**Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![PyPI](https://img.shields.io/badge/-PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyushkhatiDev&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushkhatiDev&theme=tokyonight&hide_border=true&layout=compact" width="38%" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AyushkhatiDev&theme=tokyonight&hide_border=true" width="49%" />
-</p>
-
----
-
-<p align="center"><i>Open to backend, full-stack, and AI engineering roles — let's connect.</i></p>
+</div>
