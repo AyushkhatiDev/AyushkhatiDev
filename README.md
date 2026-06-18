@@ -1,6 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Ayush%20Khati&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend-Focused%20Software%20Engineer%20%7C%20Building%20with%20AI&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Ayush%20Khati&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend-Focused%20Software%20Engineer%20%C2%B7%20Building%20Reliable%20AI%20Systems&descAlignY=58&descSize=17" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com/?lines=Designing+systems+that+stay+up+at+3am;Evaluating+whether+LLMs+can+be+trusted;Catching+what+AI-generated+code+gets+wrong;Currently+building+at+Udeck+Services&font=Fira+Code&center=true&width=620&height=40&color=58A6FF&vCenter=true&size=19" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-2ea44f?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Based%20in-India-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-Backend%20%2B%20AI%20Systems-58A6FF?style=for-the-badge"/>
+
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/ayush-khati-8a342821b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/AyushkhatiDev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -8,9 +18,17 @@
 <a href="https://medium.com/@ayushiskhati305"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="https://portfoliokhati.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
+</div>
+
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Designing+systems+that+stay+up+at+3am;Evaluating+whether+LLMs+can+be+trusted;Shipping+open-source+tools+for+real+problems;Currently+optimizing+backend+at+Udeck+Services&font=Fira+Code&center=true&width=600&height=45&color=58A6FF&vCenter=true&size=20" />
+<div align="center">
+
+### 📌 At a Glance
+
+| 99.8% | 24 | 86% | 1,000+ |
+|:---:|:---:|:---:|:---:|
+| Uptime sustained for 2,500+ businesses | Vulnerability patterns detected by VibeSec | Hallucination detection accuracy | Engineering readers reached |
 
 </div>
 
@@ -18,43 +36,50 @@
 
 ## 🧭 About Me
 
-I'm a Software Engineer at **Udeck Services**, where I design backend systems and cloud infrastructure currently sustaining **99.8% uptime** for 2,500+ businesses managing 10,000+ SKUs.
+I'm a Software Engineer at **Udeck Services**, architecting backend systems and cloud infrastructure that sustain **99.8% uptime** for 2,500+ businesses managing 10,000+ SKUs — cutting p99 latency by 40% along the way.
 
-My focus sits at the intersection of **backend engineering and applied AI** — building systems that don't just demo well, but hold up under real load, real data, and real failure modes. That curiosity led me to build tools that evaluate whether LLMs can be trusted, scanners that catch what AI-generated code gets wrong, and pipelines that fail gracefully instead of silently.
+I work at the intersection of **backend engineering and applied AI**: building systems that hold up under real load, not just demos. That curiosity turned into shipped tools — a scanner that catches what AI-generated code gets wrong, a framework that judges whether LLMs can be trusted, and pipelines that fail gracefully instead of silently.
 
 ```text
 const ayush = {
-  role: "Software Engineer, Udeck Services",
-  focus: ["backend architecture", "LLM evaluation", "AI tooling"],
-  currentlyBuilding: "production-grade reliability into AI-backed systems",
+  role: "Software Engineer @ Udeck Services",
+  stack: ["Python", "Node.js", "PostgreSQL", "Redis", "AWS"],
+  building: "production-grade reliability into AI-backed systems",
+  shipped: ["VibeSec (PyPI)", "LLM Eval Framework", "Data Extractor"],
   alwaysLearning: true,
 };
 ```
 
 <br/>
 
-## 🚀 Featured Projects
+## 🚀 Featured Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🛡️ [VibeSec](https://github.com/AyushkhatiDev/vibesec)
-**Open-source security scanner for AI-generated code**
+**Security scanner for AI-generated code**
 
-Detects 24 vulnerability patterns — hardcoded secrets, disabled RLS, hallucinated packages, XSS — using a deterministic AST-based rule engine paired with LLM-powered fix suggestions.
+Catches what Cursor, Bolt, and Claude Code miss — hardcoded secrets, disabled RLS, hallucinated packages, XSS — via deterministic AST analysis + LLM-powered fixes.
 
-`179 tests` · `100% rule coverage` · [`pip install vibesec`](https://pypi.org/project/vibesec/)
+![tests](https://img.shields.io/badge/tests-179%20passing-success?style=flat-square)
+![coverage](https://img.shields.io/badge/rule%20coverage-100%25-success?style=flat-square)
+
+📦 [`pip install vibesec`](https://pypi.org/project/vibesec/)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧪 [LLM Eval & Red-Teaming](https://github.com/AyushkhatiDev/llm-eval)
-**Three-tier judge architecture for LLM reliability**
+**Three-tier judge architecture for LLM trust**
 
-Benchmarks factual accuracy, safety, and adversarial robustness via a distributed judge chain — models evaluating models.
+A distributed judge chain — models evaluating models — benchmarking factual accuracy, safety, and adversarial robustness.
 
-`27-test suite` · `86% hallucination detection` · [Live demo](https://llm-eval-silk.vercel.app/)
+![accuracy](https://img.shields.io/badge/hallucination%20detection-86%25-blue?style=flat-square)
+![tests](https://img.shields.io/badge/test%20suite-27%20checks-blue?style=flat-square)
+
+🔗 [Live demo](https://llm-eval-silk.vercel.app/)
 
 </td>
 </tr>
@@ -64,9 +89,11 @@ Benchmarks factual accuracy, safety, and adversarial robustness via a distribute
 ### 🔗 [Data Extractor](https://github.com/AyushkhatiDev/data-extractor)
 **AI business intelligence pipeline at scale**
 
-Scrapes 8 public data streams through an async LLM fallback chain (Qwen-2.5-VL → Llama-3.1 → Regex) for fault-tolerant extraction. Architecture documented in an independent research paper.
+Scrapes 8 public data streams through an async LLM fallback chain (Qwen-2.5-VL → Llama-3.1 → Regex) for extraction that degrades gracefully, never silently.
 
-[Live demo](https://data-extractor-1-laq7.onrender.com/)
+![research](https://img.shields.io/badge/architecture-documented%20in%20research%20paper-9cf?style=flat-square)
+
+🔗 [Live demo](https://data-extractor-1-laq7.onrender.com/)
 
 </td>
 <td width="50%" valign="top">
@@ -74,7 +101,9 @@ Scrapes 8 public data streams through an async LLM fallback chain (Qwen-2.5-VL �
 ### 📝 Open Source & Writing
 **Fedora · GirlScript Summer of Code · Medium**
 
-Contributing production code and docs to Fedora's DRI repos, plus technical essays on ML systems and full-stack engineering reaching 1,000+ engineering readers.
+Shipping production code and architecture docs to Fedora's DRI repos, and writing technical essays on ML systems and full-stack engineering.
+
+![readers](https://img.shields.io/badge/readers-1%2C000%2B-purple?style=flat-square)
 
 </td>
 </tr>
@@ -90,7 +119,9 @@ Contributing production code and docs to Fedora's DRI repos, plus technical essa
 
 <br/>
 
-## 📊 GitHub Stats
+<details>
+<summary><b>📊 GitHub Stats — click to expand</b></summary>
+<br/>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=AyushkhatiDev&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&rank_icon=github" width="48%" />
@@ -107,12 +138,15 @@ Contributing production code and docs to Fedora's DRI repos, plus technical essa
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushkhatiDev&theme=tokyo-night&hide_border=true&area=true" width="90%" />
 </div>
 
+</details>
+
 <br/>
 
 <div align="center">
 
-### 💬 Open to backend, full-stack, and AI engineering roles — let's build something reliable.
+### 💬 Open to backend, full-stack, and AI engineering roles.
+### Let's build something that doesn't break in production.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=110&section=footer" width="100%"/>
 
 </div>
