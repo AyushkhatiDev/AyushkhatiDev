@@ -1,152 +1,116 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Ayush%20Khati&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend-Focused%20Software%20Engineer%20%C2%B7%20Building%20Reliable%20AI%20Systems&descAlignY=58&descSize=17" width="100%"/>
+# Ayush Khati
+### Systems Engineer · Program Analysis Researcher · Distributed Backend Architect
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Designing+systems+that+stay+up+at+3am;Evaluating+whether+LLMs+can+be+trusted;Catching+what+AI-generated+code+gets+wrong;Currently+building+at+Udeck+Services&font=Fira+Code&center=true&width=620&height=40&color=58A6FF&vCenter=true&size=19" />
+*Designing deterministic static analyzers, fault-tolerant distributed backends, and high-throughput streaming pipelines that hold up under production load.*
 
-<br/>
-
-<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-2ea44f?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Based%20in-India-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Focus-Backend%20%2B%20AI%20Systems-58A6FF?style=for-the-badge"/>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/ayush-khati-8a342821b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/AyushkhatiDev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:ayushiskhati305@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://medium.com/@ayushiskhati305"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-<a href="https://portfoliokhati.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+[![ConcurrencyGuard](https://img.shields.io/badge/ConcurrencyGuard.dev-Live-334155?style=for-the-badge&logo=googlechrome&logoColor=white)](https://concurrencyguard.dev/)
+[![cguard PyPI](https://img.shields.io/pypi/v/concurrency-guard?style=for-the-badge&logo=pypi&logoColor=white&label=cguard%20PyPI&color=334155)](https://pypi.org/project/concurrency-guard/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush_Khati-334155?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-khati-8a342821b/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-portfoliokhati-334155?style=for-the-badge&logo=safari&logoColor=white)](https://portfoliokhati.netlify.app/)
+[![Medium](https://img.shields.io/badge/Medium-Technical_Essays-334155?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ayushiskhati305)
+[![Email](https://img.shields.io/badge/Email-ayushiskhati305%40gmail.com-334155?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushiskhati305@gmail.com)
 
 </div>
 
-<br/>
+---
 
-<div align="center">
-
-### 📌 At a Glance
-
-| 99.8% | 24 | 86% | 1,000+ |
-|:---:|:---:|:---:|:---:|
-| Uptime sustained for 2,500+ businesses | Vulnerability patterns detected by VibeSec | Hallucination detection accuracy | Engineering readers reached |
-
-</div>
-
-<br/>
-
-## 🧭 About Me
-
-I'm a Software Engineer at **Udeck Services**, architecting backend systems and cloud infrastructure that sustain **99.8% uptime** for 2,500+ businesses managing 10,000+ SKUs — cutting p99 latency by 40% along the way.
-
-I work at the intersection of **backend engineering and applied AI**: building systems that hold up under real load, not just demos. That curiosity turned into shipped tools — a scanner that catches what AI-generated code gets wrong, a framework that judges whether LLMs can be trusted, and pipelines that fail gracefully instead of silently.
-
-```text
-const ayush = {
-  role: "Software Engineer @ Udeck Services",
-  stack: ["Python", "Node.js", "PostgreSQL", "Redis", "AWS"],
-  building: "production-grade reliability into AI-backed systems",
-  shipped: ["VibeSec (PyPI)", "LLM Eval Framework", "Data Extractor"],
-  alwaysLearning: true,
-};
-```
-
-<br/>
-
-## 🚀 Featured Work
+## Engineering Telemetry
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛡️ [VibeSec](https://github.com/AyushkhatiDev/vibesec)
-**Security scanner for AI-generated code**
-
-Catches what Cursor, Bolt, and Claude Code miss — hardcoded secrets, disabled RLS, hallucinated packages, XSS — via deterministic AST analysis + LLM-powered fixes.
-
-![tests](https://img.shields.io/badge/tests-179%20passing-success?style=flat-square)
-![coverage](https://img.shields.io/badge/rule%20coverage-100%25-success?style=flat-square)
-
-📦 [`pip install vibesec`](https://pypi.org/project/vibesec/)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧪 [LLM Eval & Red-Teaming](https://github.com/AyushkhatiDev/llm-eval)
-**Three-tier judge architecture for LLM trust**
-
-A distributed judge chain — models evaluating models — benchmarking factual accuracy, safety, and adversarial robustness.
-
-![accuracy](https://img.shields.io/badge/hallucination%20detection-86%25-blue?style=flat-square)
-![tests](https://img.shields.io/badge/test%20suite-27%20checks-blue?style=flat-square)
-
-🔗 [Live demo](https://llm-eval-silk.vercel.app/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔗 [Data Extractor](https://github.com/AyushkhatiDev/data-extractor)
-**AI business intelligence pipeline at scale**
-
-Scrapes 8 public data streams through an async LLM fallback chain (Qwen-2.5-VL → Llama-3.1 → Regex) for extraction that degrades gracefully, never silently.
-
-![research](https://img.shields.io/badge/architecture-documented%20in%20research%20paper-9cf?style=flat-square)
-
-🔗 [Live demo](https://data-extractor-1-laq7.onrender.com/)
-
-</td>
-<td width="50%" valign="top">
-
-### 📝 Open Source & Writing
-**Fedora · GirlScript Summer of Code · Medium**
-
-Shipping production code and architecture docs to Fedora's DRI repos, and writing technical essays on ML systems and full-stack engineering.
-
-![readers](https://img.shields.io/badge/readers-1%2C000%2B-purple?style=flat-square)
-
-</td>
-</tr>
+  <tr>
+    <td align="center" width="25%"><h3>2,346+</h3><sub><b>Monthly cguard downloads</b><br/>v3.4.0 · 1,224+/week</sub></td>
+    <td align="center" width="25%"><h3>1.2M/day</h3><sub><b>Production events</b><br/>Celery + Redis · zero loss/duplication</sub></td>
+    <td align="center" width="25%"><h3>116×</h3><sub><b>Warm scan speedup</b><br/>12.80s → 0.110s · 1,000+ files</sub></td>
+    <td align="center" width="25%"><h3>86%</h3><sub><b>Hot-path p99 reduction</b><br/>1.8s → 240ms · 99.8% uptime</sub></td>
+  </tr>
 </table>
 
-<br/>
+---
 
-## 🛠️ Tech Stack
+## Flagship Open-Source Platform — ConcurrencyGuard (`cguard` v3.4.0)
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,c,nodejs,flask,nextjs,react,redis,postgres,docker,nginx,aws,pytorch,git,githubactions&theme=dark" />
-</p>
+**[concurrencyguard.dev](https://concurrencyguard.dev/)** · **[PyPI](https://pypi.org/project/concurrency-guard/)** · **[GitHub](https://github.com/AyushkhatiDev/concurrency-guard)**
 
-<br/>
+ConcurrencyGuard is a deterministic Python semantic SAST, empirical race verifier, lossless LibCST auto-patcher, and LSP 3.17 engine for backend concurrency vulnerabilities (CWE-362). It analyzes FastAPI, SQLAlchemy 2.0, Django ORM, SQLModel, Tortoise ORM, Celery, Redis, `asyncio`, and `threading`.
 
-<details>
-<summary><b>📊 GitHub Stats — click to expand</b></summary>
-<br/>
+- **Semantic analysis:** 21 concurrency rules (`CG-001`–`CG-021`) using inter-procedural call graphs and forward data-flow tracking to identify unlocked read-modify-write races, missing idempotency guards, TOCTOU collisions, lock-order deadlocks, and session-lifetime leaks.
+- **Empirical verification:** `cguard verify` coordinates workers with `asyncio.Barrier` / `threading.Barrier`; `cguard simulate` models async interleavings and exports runnable pytest chaos reproducers.
+- **Lossless remediation:** `cguard fix --diff/--write` produces LibCST patches for locking, atomic ORM updates, rollback handling, and related concurrency repairs.
+- **Shift-left infrastructure:** zero-dependency LSP 3.17 (`cguard lsp`), real-time watch mode, GitHub PR inline review, baseline ratcheting, and OASIS SARIF v2.1.0 export.
+- **Measured performance:** SHA-256 content-addressable caching reduces a 1,000+ file monorepo warm scan from `12.80s` to `0.110s` (**116×**).
+
+```bash
+pip install concurrency-guard
+
+# Scan and emit SARIF for code scanning
+cguard scan src/ --format sarif -o cguard.sarif
+
+# Simulate an async race and export a pytest reproducer
+cguard simulate src/routers/billing.py --rule CG-001 --export-test tests/test_race_repro.py
+
+# Preview an auto-remediation or start the language server
+cguard fix src/ --diff
+cguard lsp
+```
+
+---
+
+## Production Systems Engineering
+
+**Software Engineer — Backend & Distributed Systems, Udeck Services** · Oct 2025–present
+**Intern, Udeck Services** · Apr 2025–Oct 2025
+
+Architecting multi-tenant backend systems and cloud infrastructure sustaining **99.8% uptime** for **2,500+ businesses** managing **10,000+ SKUs**.
+
+- Replaced an `O(N)` 20-level recursive hierarchy with an indexed `O(1)` closure table, reducing endpoint latency **71%** (`3.96s → 1.15s`) and database round trips from **133 to 6**.
+- Built a fault-tolerant Celery + Redis pipeline that processes **1.2M daily events** with idempotent consumers and DLQs, maintaining zero message loss or duplication.
+- Eliminated race conditions under **500-request burst load** across **198 REST endpoints**, maintaining zero ledger drift with idempotency keys, transactional double-entry invariants, and row-level locks.
+- Reduced hot-path read p99 latency **86%** (`1.8s → 240ms`) through query-plan optimization and composite indexing; reduced incident MTTD **93%** (`45 min → 3 min`).
+- Performed a zero-downtime migration of a **38M-row** production table with expand/contract phases, batched backfills, and point-in-time recovery.
+- Reduced homepage database queries **97%**, from 368 to single digits, using relational bulk preloading.
+
+---
+
+## Featured Systems & Research Portfolio
+
+| System | Architecture | Outcome |
+| --- | --- | --- |
+| **[ConcurrencyGuard](https://github.com/AyushkhatiDev/concurrency-guard)** | Semantic SAST, empirical race verification, LibCST patching, LSP 3.17 | 21 CWE-362 rules; 116× cached warm scans |
+| **MatchLens: Streaming AI Agents** | Microsoft Agent Framework, Azure Event Hubs, Microsoft Fabric reconciliation | Verified 1,728/1,728 streaming events with zero loss or duplication |
+| **Sentinel: Multi-Stream Computer Vision Engine** | 15-camera RTSP/HLS workers, bounded queues, ONNX Runtime, PyAV, PostGIS | Fault-isolated ingestion with 2–30s exponential recovery backoff |
+| **[VibeSec](https://github.com/AyushkhatiDev/vibesec)** | Deterministic AST security scanning with automated remediation | 1,200+ downloads, 179 unit tests, 100% rule coverage, 24 vulnerability patterns |
+| **[LLM Eval & Red-Teaming](https://github.com/AyushkhatiDev/llm-eval)** | Three-tier distributed judges for factuality, safety, and adversarial robustness | 86% hallucination-detection accuracy across 27 verification checks |
+| **[Data Extractor](https://github.com/AyushkhatiDev/data-extractor)** | Eight async streams with `Qwen-2.5-VL → Llama-3.1 → Regex` fallback | Deterministic graceful degradation; architecture documented in research paper |
+
+---
+
+## Open Source, Publications & Leadership
+
+- **Fedora Project Contributor:** upstream bug fixes, features, and documentation merged into Fedora Linux DRI repositories.
+- **Python open-source maintainer:** maintainer of `concurrency-guard` and `vibesec` on PyPI; contributor to Python/Rust ecosystem tooling.
+- **Technical writing & community:** 1,000+ engineering readers on [Medium](https://medium.com/@ayushiskhati305); Technical Lead at TechFrenzy, organizing 5+ hackathons for 200+ developers.
+
+---
+
+## Technical Architecture & Systems Stack
+
+| Domain | Core technologies & primitives |
+| --- | --- |
+| Program analysis & compilers | Python AST, LibCST, inter-procedural call graphs, forward data-flow taint analysis, LSP 3.17, OASIS SARIF v2.1.0, `asyncio.Barrier` verification |
+| Languages | Python, C++, SQL, TypeScript, JavaScript, Bash, Rust tooling integration |
+| Backend & distributed systems | FastAPI, Django ORM, SQLAlchemy 2.0, SQLModel, Tortoise ORM, Celery, `asyncio` / anyio, REST and event-driven architectures |
+| Data & streaming | PostgreSQL, PostGIS, MySQL, Redis, Azure Event Hubs, Microsoft Fabric, SQLite WAL/content-addressable caching |
+| Applied AI & computer vision | Microsoft Agent Framework, ONNX Runtime, PyAV, multi-model judge chains, Qwen-2.5-VL and Llama-3.1 fallback pipelines |
+| Infrastructure & verification | Linux, Docker, AWS, Nginx, GitHub Actions CI/CD, pytest, pytest-asyncio, mypy, Ruff |
+
+---
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AyushkhatiDev&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&rank_icon=github" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushkhatiDev&theme=tokyonight&hide_border=true&layout=compact" width="38%" />
-</div>
 
-<div align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=AyushkhatiDev&theme=tokyonight&hide_border=true" width="60%" />
-</div>
+### Open to systems engineering, backend/distributed systems, and program analysis / AI research roles.
 
-<br/>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushkhatiDev&theme=tokyo-night&hide_border=true&area=true" width="90%" />
-</div>
-
-</details>
-
-<br/>
-
-<div align="center">
-
-### 💬 Open to backend, full-stack, and AI engineering roles.
-### Let's build something that doesn't break in production.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=110&section=footer" width="100%"/>
+[concurrencyguard.dev](https://concurrencyguard.dev/) · [LinkedIn](https://www.linkedin.com/in/ayush-khati-8a342821b/) · [Portfolio](https://portfoliokhati.netlify.app/) · [ayushiskhati305@gmail.com](mailto:ayushiskhati305@gmail.com)
 
 </div>
